@@ -85,14 +85,14 @@ export default function LandingPage() {
           handle: "@lucas",
           testimonial: "Experiência de outro nível, voltarei sempre.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517418.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517418.jpg?_wi=1",
         },
         {
           name: "Julia B.",
           handle: "@julia",
           testimonial: "Simplesmente divino, atendimento excelente.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/fried-meat-with-homemade-potatoes-fried-mushrooms_140725-2104.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fried-meat-with-homemade-potatoes-fried-mushrooms_140725-2104.jpg?_wi=1",
         },
       ]}
       imageSrc="http://img.b2bpic.net/free-photo/abstract-fire-background_1048-6194.jpg"
@@ -346,7 +346,7 @@ export default function LandingPage() {
           quote: "O melhor ponto de carne da cidade.",
           name: "David K.",
           role: "Chef",
-          imageSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517418.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/couple-having-date-together-luxurious-restaurant_23-2150517418.jpg?_wi=2",
         },
         {
           id: "5",
@@ -354,7 +354,7 @@ export default function LandingPage() {
           quote: "Ambiente charmoso e comida divina.",
           name: "Ana S.",
           role: "Cliente",
-          imageSrc: "http://img.b2bpic.net/free-photo/fried-meat-with-homemade-potatoes-fried-mushrooms_140725-2104.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/fried-meat-with-homemade-potatoes-fried-mushrooms_140725-2104.jpg?_wi=2",
         },
       ]}
       title="O que dizem nossos clientes"
